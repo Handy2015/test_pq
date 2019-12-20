@@ -1,0 +1,19 @@
+{
+  "name": "test_pq",
+  "version": "1.0.0",
+  "description": "test",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Handy2015/test_pq.git"
+  },
+  "author": "jianmin3@staff.sina.com.cn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Handy2015/test_pq/issues"
+  },
+  "homepage": "https://github.com/Handy2015/test_pq#readme"
+}
